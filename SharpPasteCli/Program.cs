@@ -15,7 +15,7 @@ namespace SharpPasteCli
 					switch (args[1])
 					{
 						case "pastes":
-							Lister.ListPastes();
+							//Lister.ListPastes();
 							break;
 						default:
 							break;
